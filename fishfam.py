@@ -14,3 +14,4 @@ import streamlit as st
 #st.set_page_config(page_title="Menu", page_icon="🐬", layout="wide",initial_sidebar_state="collapsed")
 
 st.write("Fishing is sooooooooo fun")
+sst.write("hello")
